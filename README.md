@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm Aman Singh Solanki i'm pursing btech cse with<br> i know c,c++,python,, java ,, html ,, css,, dsa in c++ or java<br>  & Core Languages:<br> Python, JavaScript, Node.js, Java, C/C++, <br>databases MongoDB, MySQL cloud & DevOps :AWS, Docker, Git/GitHub
+💀 Aman Singh Solanki is a B.Tech CSE student driven by logic, systems, and clean code, skilled in Python, JavaScript (Node.js), Java, and C/C++, with strong foundations in DSA using C++ and Java. He builds structured, scalable solutions using HTML, CSS, MongoDB, and MySQL, while leveraging AWS, Docker, and Git/GitHub to deploy and manage modern applications. Focused on backend engineering, cloud infrastructure, and performance optimization, he believes in learning relentlessly, building consistently, and letting the code speak louder than words.
 
 
 ## 🌐 Socials:
