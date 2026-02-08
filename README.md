@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Aman Singh Solanki i'm pursing btech cse with<br> i know c,c++,python,, java ,, html ,, css,, dsa in c++ or java<br>  & Core Languages:<br> Python, JavaScript, Node.js, Java, C/C++, <br>databases MongoDB, MySQL cloud & DevOps :AWS, Docker, Git/GitHub,JIRA, O
+I'm Aman Singh Solanki i'm pursing btech cse with<br> i know c,c++,python,, java ,, html ,, css,, dsa in c++ or java<br>  & Core Languages:<br> Python, JavaScript, Node.js, Java, C/C++, <br>databases MongoDB, MySQL cloud & DevOps :AWS, Docker, Git/GitHub
 
 
 ## 🌐 Socials:
